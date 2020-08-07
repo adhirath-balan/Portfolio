@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Ruda', sans-serif;
+}
+
+h1{
+    font-family: 'Grenze Gotisch', cursive;
+}
+
+.myself{
+    width: 100%;
+    height: 383px;
+}
+
+.bg-black{
+    background-color: rgb(31, 30, 30);
+}
+
+.mouse:hover{
+    cursor: pointer;
+    opacity: 0.75;
+}
+
+.work{
+    width: 100%;
+    height: 100%;
+}
